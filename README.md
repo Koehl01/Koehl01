@@ -1,5 +1,9 @@
-### Hi there 👋
+* ~~start learning markdown to spice up github profile~~
+* everything else
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/j6ZhcAyUctYrj2ueBi/giphy.gif" width="300"/>
+</div>
 <!--
 **Koehl01/Koehl01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
