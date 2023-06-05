@@ -11,8 +11,9 @@
 </div>
 </div>
 
-# Hello!
+<h1 align="center">HELLO!<h1>
 
+  
 * ~~start learning markdown to spice up github profile~~
 * everything else
 
